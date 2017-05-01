@@ -38,3 +38,6 @@ patents and citations.
 Created by Volker Strobel - volker.strobel87@gmail.com
   		  
 Modifications for Python 3 version made by Patrick Hofmann
+
+## Other software
+Personal note: https://www.harzing.com/resources/publish-or-perish
